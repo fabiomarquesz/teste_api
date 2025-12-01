@@ -147,8 +147,8 @@ python gerenciador_produtos.py
 
 1. Abra a aplicação
 2. Na aba **🔐 Login**, insira suas credenciais:
-   - Email: `fabinho_marquez@hotmail.com.br` (exemplo)
-   - Senha: `1234` (exemplo)
+   - Email: `seu@email.com` (exemplo)
+   - Senha: `senha` (exemplo)
 3. Clique em **Fazer Login**
 4. Aguarde a confirmação de sucesso
 
