@@ -170,7 +170,7 @@ python gerenciador_produtos.py
    - Preço (somente números)
    - Categoria (selecione no dropdown)
    - Frete (somente números)
-   - Imagem (opcional - clique em 📁 Selecionar)
+   - Imagem (clique em 📁 Selecionar)
 3. Clique em **✅ Cadastrar Produto**
 4. Aguarde a confirmação
 
